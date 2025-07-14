@@ -1,4 +1,5 @@
 # backend/api/tests.py
+# isort: skip_file
 from http import HTTPStatus
 
 from django.test import Client, TestCase
